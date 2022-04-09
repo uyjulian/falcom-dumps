@@ -21,6 +21,7 @@ If you have questions about usage of the models in a specific environment, sendi
 * [Celestial Globe](https://vrchat.com/home/launch?worldId=wrld_3ef10b33-084f-49f0-9fb4-6a328ff09213)  
 * [The Infernal Castle](https://vrchat.com/home/launch?worldId=wrld_a086cc54-958e-496c-a0ab-b247eece1e9c)  
 * [Garrelia Fortress](https://vrchat.com/home/launch?worldId=wrld_21ab4751-42b2-4cb1-b191-20dbb8f251ed)  
+* [Isthmia Great Forest](https://vrchat.com/home/launch?worldId=wrld_17092ccd-5df3-4324-a9b3-969a23c88199)  
 
 ### Nerzarn
 * [Courageous](https://vrchat.com/home/launch?worldId=wrld_1e0e204d-1145-4df9-8560-6d92c4fbffe3)  
