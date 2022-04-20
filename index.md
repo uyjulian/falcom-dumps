@@ -77,9 +77,11 @@ Please see the [Unity documentation on TextureImporter](https://docs.unity3d.com
 They are in the smallest uncompressed format, in order to get more gains when inside a solid 7-zip archive.  
 
 ### How do I get the high resolution face textures for Sen3, Sen4, and Hajimari?
+(!!!: High resolution face textures are not included in the current dump. We're planning to fix this.)  
 For high resolution face textures, please use the file `fc_chrXXXfYY_conv` instead of `chrXXX_YY_conv`.  
 
 ### How do I apply animations to models in Blender?
+(!!!: Animations in the dump may be broken, even after using these steps. We're planning to fix this.)  
 
 To apply animations:  
 1. Import both model and animation with "Bone Dir" set to "Blender" (otherwise it may look wrong)  
