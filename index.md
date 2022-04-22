@@ -7,6 +7,10 @@ title: Falcom 3D texture and model dumps
 
 This page contains Falcom 3D model and texture dumps.
 
+# Modding resources
+
+For resources relating to modding Trails/Kiseki games, see the following page: https://gbatemp.net/threads/trails-kiseki-modding.476713/  
+
 # Recommended downstream resources
 
 The following people have used the model dumps on this page to create derivative works.  
