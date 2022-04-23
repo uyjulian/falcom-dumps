@@ -9,7 +9,7 @@ This page contains Falcom 3D model and texture dumps.
 
 # Modding resources
 
-For resources relating to modding Trails/Kiseki games, see the following page: https://gbatemp.net/threads/trails-kiseki-modding.476713/  
+For resources relating to modding Trails/Kiseki games, see [here](https://gbatemp.net/threads/trails-kiseki-modding.476713/).  
 
 # Recommended downstream resources
 
@@ -169,6 +169,7 @@ Sen3+4+Hajimari Character models, textures, and animations (GLB/GLTF binary comb
 Due to size considerations, I am no longer providing non-character textures or models publically. These files can be extracted from the PC version of the game.  
 
 ### Kuro no Kiseki
+(!!!: Some meshes are not included in the current dump. We're planning to fix this.)  
 
 Dumped with 9.00 exploit.  
 WIP 3D model extracted: [MEGA](https://mega.nz/file/gsJ1HSpK#l8DLSA1e2cau0UGdlK83hMwNiwTBguBmHFWM77zMZz8)  
