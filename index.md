@@ -26,7 +26,8 @@ If you have questions about usage of the models in a specific environment, sendi
 * [The Infernal Castle](https://vrchat.com/home/launch?worldId=wrld_a086cc54-958e-496c-a0ab-b247eece1e9c)  
 * [Garrelia Fortress](https://vrchat.com/home/launch?worldId=wrld_21ab4751-42b2-4cb1-b191-20dbb8f251ed)  
 * [Isthmia Great Forest](https://vrchat.com/home/launch?worldId=wrld_17092ccd-5df3-4324-a9b3-969a23c88199)  
-* [Bryonia Island](https://vrchat.com/home/launch?worldId=wrld_ad1b4266-080a-4820-a028-7da306e734d6)
+* [Bryonia Island](https://vrchat.com/home/launch?worldId=wrld_ad1b4266-080a-4820-a028-7da306e734d6)  
+* [The Pantagruel](https://vrchat.com/home/launch?worldId=wrld_a822fcdc-80f2-4770-b9ce-eaf9557e639a)  
 
 ### Nerzarn
 * [Courageous](https://vrchat.com/home/launch?worldId=wrld_1e0e204d-1145-4df9-8560-6d92c4fbffe3)  
