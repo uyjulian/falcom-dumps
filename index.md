@@ -141,7 +141,7 @@ The [unpackpka](https://github.com/uyjulian/unpackpka) program can be used for t
 ### How do I extract the files from the .pkg file?
 The following [QuickBMS](http://aluigi.altervista.org/quickbms.htm) script can be used for this purpose: [Link to QuickBMS script](http://aluigi.altervista.org/bms/legend_of_heroes.bms)  
 
-A [Python script](https://gist.github.com/uyjulian/55475c98c631632ddfd5453469726439) is also available for .pkg extraction.  
+The [unpackpkg](https://github.com/uyjulian/unpackpkg) program is also available for `.pkg` extraction.  
 
 ### How do I get the texture data out of the PhyreEngine cluster format?
 If you have file names ending in `.phyre`, such as `.bmp.phyre`, `.png.phyre`, `.dds.phyre`, some certain utilities are used to retrieve the texture data.
