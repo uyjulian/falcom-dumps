@@ -28,6 +28,7 @@ If you have questions about usage of the models in a specific environment, sendi
 * [Isthmia Great Forest](https://vrchat.com/home/launch?worldId=wrld_17092ccd-5df3-4324-a9b3-969a23c88199)  
 * [Bryonia Island](https://vrchat.com/home/launch?worldId=wrld_ad1b4266-080a-4820-a028-7da306e734d6)  
 * [The Pantagruel](https://vrchat.com/home/launch?worldId=wrld_a822fcdc-80f2-4770-b9ce-eaf9557e639a)  
+* [Bareahard](https://vrchat.com/home/launch?worldId=wrld_756c854b-d130-4114-ad77-0b5b081c8177)  
 
 ### Nerzarn
 * [Courageous](https://vrchat.com/home/launch?worldId=wrld_1e0e204d-1145-4df9-8560-6d92c4fbffe3)  
