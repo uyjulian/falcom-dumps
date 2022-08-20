@@ -174,7 +174,7 @@ Sen3+4+Hajimari Character models, textures, and animations (GLB/GLTF binary comb
 Due to size considerations, I am no longer providing non-character textures or models publically. These files can be extracted from the PC version of the game.  
 
 ### Kuro no Kiseki
-(!!!: Some meshes are not included in the current dump. We're planning to fix this.)  
+(!!!: Some meshes are not included in the current dump. An updated dump, planned to be uploaded within 24 to 72 hours, will include these meshes.)  
 
 Dumped with 9.00 exploit.  
 WIP 3D model extracted: [MEGA](https://mega.nz/file/gsJ1HSpK#l8DLSA1e2cau0UGdlK83hMwNiwTBguBmHFWM77zMZz8)  
