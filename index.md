@@ -174,11 +174,13 @@ Sen3+4+Hajimari Character models, textures, and animations (GLB/GLTF binary comb
 Due to size considerations, I am no longer providing non-character textures or models publically. These files can be extracted from the PC version of the game.  
 
 ### Kuro no Kiseki
-(!!!: Some meshes are not included in the current dump. An updated dump, planned to be uploaded within 24 to 72 hours, will include these meshes.)  
 
-Dumped with 9.00 exploit.  
-WIP 3D model extracted: [MEGA](https://mega.nz/file/gsJ1HSpK#l8DLSA1e2cau0UGdlK83hMwNiwTBguBmHFWM77zMZz8)  
-Currently skins, textures, and animations are missing.  
+Kuro Character models (GLTF model data only): [MEGA](https://mega.nz/file/NwoGyJCT#fZG33TtgLhJEWfX4zSq93h07XmxCFL-3BWF_rN9ieCc)  
+Kuro Character model textures (PNG texture data only): [MEGA](https://mega.nz/file/AhYnHa4a#hiJjw7mCNAwvGcBCqFakOhoQQEtS89tp_6M7AQD0yTM)  
+Currently, animations are missing.  
+Currently, the UV wrapping mode is not set correctly.  
+
+Due to size considerations, I am no longer providing non-character textures or models publically. Please contact me with a PC savefile or map ID that you want so I can upload them individually.  
 
 ### Other Falcom games
 
