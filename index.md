@@ -175,7 +175,7 @@ Due to size considerations, I am no longer providing non-character textures or m
 
 ### Kuro no Kiseki
 
-Kuro Character models (GLTF model data only): [MEGA](https://mega.nz/file/NwoGyJCT#fZG33TtgLhJEWfX4zSq93h07XmxCFL-3BWF_rN9ieCc)  
+Kuro Character models (GLTF model data only) (v2): [MEGA](https://mega.nz/file/k04TlSiJ#02G3EE9fIOxVCEy0dwHNG7eD4Y7Y6tbpdWIvLlEAVIQ)  
 Kuro Character model textures (PNG texture data only): [MEGA](https://mega.nz/file/AhYnHa4a#hiJjw7mCNAwvGcBCqFakOhoQQEtS89tp_6M7AQD0yTM)  
 Currently, animations are missing.  
 Currently, the UV wrapping mode is not set correctly.  
