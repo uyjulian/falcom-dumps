@@ -180,6 +180,8 @@ Due to size considerations, I am no longer providing non-character textures or m
 
 Kuro Character models (GLTF model data only) (v2): [MEGA](https://mega.nz/file/k04TlSiJ#02G3EE9fIOxVCEy0dwHNG7eD4Y7Y6tbpdWIvLlEAVIQ)  
 Kuro Character model textures (PNG texture data only): [MEGA](https://mega.nz/file/AhYnHa4a#hiJjw7mCNAwvGcBCqFakOhoQQEtS89tp_6M7AQD0yTM)  
+Kuro Equipment models (GLTF model data only): [MEGA](https://mega.nz/file/tkQXXaxI#SX2rPD-6ZwXxUmnmASV4i9e2ZX9RyK3xYjPVVGARRYM)  
+Kuro Equipment model textures (PNG texture data only): [MEGA](https://mega.nz/file/Ek5wDLrT#mH7uH6HW8ZC5MRMJUiP8lHDcjUmebcxbwq3Maqdv5lg)  
 Currently, animations are missing.  
 Currently, the UV wrapping mode is not set correctly.  
 
