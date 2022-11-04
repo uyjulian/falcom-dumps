@@ -31,6 +31,7 @@ If you have questions about usage of the models in a specific environment, sendi
 * [Bareahard](https://vrchat.com/home/launch?worldId=wrld_756c854b-d130-4114-ad77-0b5b081c8177)  
 * [Milsante](https://vrchat.com/home/launch?worldId=wrld_2ca6c232-307b-40dc-b447-d969c3762ff7)  
 * [The Gral of Erebos](https://vrchat.com/home/launch?worldId=wrld_5c8bda9a-3895-4d70-b506-ef55357ac7ee)  
+* [The Old Schoolhouse](https://vrchat.com/home/launch?worldId=wrld_4ed2399d-858a-4f7d-8460-ec40ed6d41b7)  
 
 
 ### Nerzarn
