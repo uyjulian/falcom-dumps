@@ -65,6 +65,9 @@ If you have questions about usage of the models in a specific environment, sendi
 ### Stormowl0
 * [Arc en Ciel](https://vrchat.com/home/launch?worldId=wrld_25ffcbbe-567f-4bdf-a560-93290caa0958)  
 
+### Silent
+* [Esmelas Gardens](https://vrchat.com/home/launch?worldId=wrld_7601913b-6677-48f2-930c-54e440f9e089)  
+
 ## NeosVR
 
 ### uyjulian
