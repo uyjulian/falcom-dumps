@@ -191,6 +191,10 @@ Currently, the UV wrapping mode is not set correctly.
 
 Due to size considerations, I am no longer providing non-character textures or models publically. Please contact me with a PC savefile or map ID that you want so I can upload them individually.  
 
+### Kuro no Kiseki 2
+
+I need a PS**5** on an exploitable version in order to dump the assets from this game.  
+
 ### Other Falcom games
 
 Due to size considerations, I am no longer providing textures or models publically. These files can be extracted from the PC version of the game.  
