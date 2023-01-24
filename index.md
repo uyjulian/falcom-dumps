@@ -9,7 +9,7 @@ This page contains Falcom 3D model and texture dumps.
 
 # Modding resources
 
-For resources relating to modding Trails/Kiseki games, see [here](https://gbatemp.net/threads/trails-kiseki-modding.476713/).  
+For resources relating to modding Trails/Kiseki games (including a **Discord** server), see [here](https://gbatemp.net/threads/trails-kiseki-modding.476713/).  
 
 # Recommended downstream resources
 
