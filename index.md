@@ -197,7 +197,7 @@ Due to size considerations, I am no longer providing non-character textures or m
 
 ### Kuro no Kiseki 2
 
-I need a PS**5** on an exploitable version in order to dump the assets from this game.  
+Will be dumped later.  
 
 ### Other Falcom games
 
