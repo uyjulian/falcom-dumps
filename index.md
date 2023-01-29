@@ -197,7 +197,14 @@ Due to size considerations, I am no longer providing non-character textures or m
 
 ### Kuro no Kiseki 2
 
-Will be dumped later.  
+Kuro 2 Character models (GLTF model data only): [MEGA](https://mega.nz/file/chA2GaxC#l_jFU33gbuNRzDl6OFEdq2OLBbZ-ln4M9_bdM9cvk58)  
+Kuro 2 Character model textures (PNG texture data only): [MEGA](https://mega.nz/file/w0BVVYaA#3xp8_qrKdvWWAbIwE9_nnWneIrPPduFqvl2p96gkkY4)  
+Kuro 2 Equipment models (GLTF model data only): [MEGA](https://mega.nz/file/J8BwEaCK#lGMK17SRTX_94vcQMY63JOR0FVBtj21gtW0TntbLknw)  
+Kuro 2 Equipment model textures (PNG texture data only): [MEGA](https://mega.nz/file/E4BBWQxZ#s3HuCemrb1zFDCUgIHXEy0yu-rJeTdyl6VotrCT0g4k)  
+Currently, animations are missing.  
+Currently, the UV wrapping mode is not set correctly.  
+
+Due to size considerations, I am no longer providing non-character textures or models publically. Please contact me with a PC savefile or map ID that you want so I can upload them individually.  
 
 ### Other Falcom games
 
