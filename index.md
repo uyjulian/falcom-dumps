@@ -179,8 +179,10 @@ For Zero/Ao PSP 3D model extraction, see [it3cnv](https://www.pokanchan.jp/dokuw
 ### Trails of Cold Steel / Sen no Kiseki / Hajimari no Kiseki
 
 Sen1+2 Character models, textures, and animations (GLB/GLTF binary combined format): [MEGA](https://mega.nz/file/psJHBAiT#GZ7RrqN_VewHKRI7ZIDsxU34XnOLMOZxUzM6msSEwog)  
+Sen1+2 Equipment models, and textures, (GLB/GLTF binary combined format): [MEGA](https://mega.nz/file/x5glQR7K#AxeNqit6iJ1yGAdwMKKvqYLv6YzaZOtRS9pvHs1v_So)  
 
 Sen3+4+Hajimari Character models, textures, and animations (GLB/GLTF binary combined format): [MEGA](https://mega.nz/file/xhBxlCqJ#TEE4Q3NsrWC98WJ35AYzdm4YnhqRPCpIPybrHFvr5MM)  
+Sen3+4+Hajimari Equipment models, and textures (GLB/GLTF binary combined format): [MEGA](https://mega.nz/file/t1xThLSa#35Kc66vyJljX6WRpi38for05zF2Mye3jYH9loaju-CA)  
 
 Due to size considerations, I am no longer providing non-character textures or models publically. These files can be extracted from the PC version of the game.  
 
