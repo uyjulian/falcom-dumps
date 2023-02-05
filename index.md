@@ -188,23 +188,21 @@ Due to size considerations, I am no longer providing non-character textures or m
 
 ### Kuro no Kiseki
 
-Kuro Character models (GLTF model data only) (v2): [MEGA](https://mega.nz/file/k04TlSiJ#02G3EE9fIOxVCEy0dwHNG7eD4Y7Y6tbpdWIvLlEAVIQ)  
-Kuro Character model textures (PNG texture data only): [MEGA](https://mega.nz/file/AhYnHa4a#hiJjw7mCNAwvGcBCqFakOhoQQEtS89tp_6M7AQD0yTM)  
-Kuro Equipment models (GLTF model data only): [MEGA](https://mega.nz/file/tkQXXaxI#SX2rPD-6ZwXxUmnmASV4i9e2ZX9RyK3xYjPVVGARRYM)  
-Kuro Equipment model textures (PNG texture data only): [MEGA](https://mega.nz/file/Ek5wDLrT#mH7uH6HW8ZC5MRMJUiP8lHDcjUmebcxbwq3Maqdv5lg)  
+Kuro Character models (GLTF model data only) (v3): [MEGA](https://mega.nz/file/dhBHDAZA#kc3nKwjujXbm_h5FCTb5N_iYL3KHPNitoRnC1O96iGc)  
+Kuro Character model textures (PNG texture data only) (v2): [MEGA](https://mega.nz/file/Ql4iWKJK#rw30oUG-iaZIzhTotV48YSPED1sRR9FcLyGz06xetKA)  
+Kuro Equipment models (GLTF model data only) (v3): [MEGA](https://mega.nz/file/s5xQFLyI#6cO_i-WxNfmpwI6_ZbLXncm5ypxFF4zhIkiIoLyKdBQ)  
+Kuro Equipment model textures (PNG texture data only) (v2): [MEGA](https://mega.nz/file/thB3DbYQ#u9XvNwPcc1wWWscizy-Kw9v6Hl64_4xNdfUbNXh1GXc)  
 Currently, animations are missing.  
-Currently, the UV wrapping mode is not set correctly.  
 
 Due to size considerations, I am no longer providing non-character textures or models publically. Please contact me with a PC savefile or map ID that you want so I can upload them individually.  
 
 ### Kuro no Kiseki 2
 
-Kuro 2 Character models (GLTF model data only): [MEGA](https://mega.nz/file/chA2GaxC#l_jFU33gbuNRzDl6OFEdq2OLBbZ-ln4M9_bdM9cvk58)  
-Kuro 2 Character model textures (PNG texture data only): [MEGA](https://mega.nz/file/w0BVVYaA#3xp8_qrKdvWWAbIwE9_nnWneIrPPduFqvl2p96gkkY4)  
-Kuro 2 Equipment models (GLTF model data only): [MEGA](https://mega.nz/file/J8BwEaCK#lGMK17SRTX_94vcQMY63JOR0FVBtj21gtW0TntbLknw)  
-Kuro 2 Equipment model textures (PNG texture data only): [MEGA](https://mega.nz/file/E4BBWQxZ#s3HuCemrb1zFDCUgIHXEy0yu-rJeTdyl6VotrCT0g4k)  
+Kuro 2 Character models (GLTF model data only) (v3): [MEGA](https://mega.nz/file/d0BAEI4D#Wr_rYWstVhML8QzS43Nb-tBXBmlajSs2Q-8QhnqDDwQ)  
+Kuro 2 Character model textures (PNG texture data only) (v2): [MEGA](https://mega.nz/file/E05jiIhZ#XVdWqhMOsaWUiyUqGY0yi-9cZnsc8yMO55ExQQtrSyM)  
+Kuro 2 Equipment models (GLTF model data only) (v3): [MEGA](https://mega.nz/file/U4wB2SrL#kxOqHQDGyAsCxcc-l4pTYjmj9_R8EzdgxqwId8c-hvU)  
+Kuro 2 Equipment model textures (PNG texture data only) (v2): [MEGA](https://mega.nz/file/JsQUhC5T#-22SmJHUT12puCF3wtrM8K0ffdyOliUM-STY7W3dFOA)  
 Currently, animations are missing.  
-Currently, the UV wrapping mode is not set correctly.  
 
 Due to size considerations, I am no longer providing non-character textures or models publically. Please contact me with a PC savefile or map ID that you want so I can upload them individually.  
 
