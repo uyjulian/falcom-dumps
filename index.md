@@ -33,6 +33,7 @@ If you have questions about usage of the models in a specific environment, sendi
 * [The Gral of Erebos](https://vrchat.com/home/launch?worldId=wrld_5c8bda9a-3895-4d70-b506-ef55357ac7ee)  
 * [The Old Schoolhouse](https://vrchat.com/home/launch?worldId=wrld_4ed2399d-858a-4f7d-8460-ec40ed6d41b7)  
 * [Parm](https://vrchat.com/home/launch?worldId=wrld_aa6d91af-e01e-4d69-b1a1-f6b1e69b93ab)  
+* [Nord Highlands](https://vrchat.com/home/launch?worldId=wrld_1185dd0a-7591-430d-93ff-31ebad71ccfa)  
 
 
 ### Nerzarn
