@@ -34,6 +34,7 @@ If you have questions about usage of the models in a specific environment, sendi
 * [The Old Schoolhouse](https://vrchat.com/home/launch?worldId=wrld_4ed2399d-858a-4f7d-8460-ec40ed6d41b7)  
 * [Parm](https://vrchat.com/home/launch?worldId=wrld_aa6d91af-e01e-4d69-b1a1-f6b1e69b93ab)  
 * [Nord Highlands](https://vrchat.com/home/launch?worldId=wrld_1185dd0a-7591-430d-93ff-31ebad71ccfa)  
+* [Roer](https://vrchat.com/home/launch?worldId=wrld_181c2d83-95aa-4dd8-bc71-c206d1ec706f)  
 
 
 ### Nerzarn
