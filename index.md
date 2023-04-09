@@ -35,6 +35,7 @@ If you have questions about usage of the models in a specific environment, sendi
 * [Parm](https://vrchat.com/home/launch?worldId=wrld_aa6d91af-e01e-4d69-b1a1-f6b1e69b93ab)  
 * [Nord Highlands](https://vrchat.com/home/launch?worldId=wrld_1185dd0a-7591-430d-93ff-31ebad71ccfa)  
 * [Roer](https://vrchat.com/home/launch?worldId=wrld_181c2d83-95aa-4dd8-bc71-c206d1ec706f)  
+* [The Black Workshop](https://vrchat.com/home/launch?worldId=wrld_570d1adb-903f-49dc-a6f1-bf8f709da01c)  
 
 
 ### Nerzarn
