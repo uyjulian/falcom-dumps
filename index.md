@@ -91,7 +91,7 @@ An alternative to using Blender to convert GLTF files to FBX is to use [Noesis](
 However, I recommend that you try using Blender to convert files before using Noesis.  
 
 ### After exporting to FBX, why does one half of the model file have wrongly mapped textures?
-In the program, you need to set the texture repeat mode to "Repeat".  
+In the program where the FBX file is being imported, you need to set the texture repeat mode to either "Repeat" or "Mirror". Use visual feature detection to determine the correct mode to set.  
 
 In Unity, this can be done from the texture inspector window.  
 Please see the [Unity documentation on TextureImporter](https://docs.unity3d.com/Manual/class-TextureImporter.html) for a visual of the texture inspector window.  
