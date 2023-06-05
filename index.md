@@ -38,6 +38,7 @@ If you have questions about usage of the models in a specific environment, sendi
 * [The Black Workshop](https://vrchat.com/home/launch?worldId=wrld_570d1adb-903f-49dc-a6f1-bf8f709da01c)  
 * [The Empyreal Fortress](https://vrchat.com/home/launch?worldId=wrld_79c24abc-c420-4570-babc-a7df411b4e28)  
 * [Saint-Arkh](https://vrchat.com/home/launch?worldId=wrld_368b1151-5b81-475b-8bcd-bd4183f7c95c)  
+* [St․ Ursula Medical College](https://vrchat.com/home/launch?worldId=wrld_49e989b8-ec88-4cfc-a0dc-91b8364d814c)  
 
 
 ### Nerzarn
