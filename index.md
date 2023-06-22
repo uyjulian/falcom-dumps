@@ -39,6 +39,7 @@ If you have questions about usage of the models in a specific environment, sendi
 * [The Empyreal Fortress](https://vrchat.com/home/launch?worldId=wrld_79c24abc-c420-4570-babc-a7df411b4e28)  
 * [Saint-Arkh](https://vrchat.com/home/launch?worldId=wrld_368b1151-5b81-475b-8bcd-bd4183f7c95c)  
 * [St․ Ursula Medical College](https://vrchat.com/home/launch?worldId=wrld_49e989b8-ec88-4cfc-a0dc-91b8364d814c)  
+* [Armorica Village](https://vrchat.com/home/launch?worldId=wrld_449a0630-67e0-4bf6-a7c4-1139dd61b0ef)  
 
 
 ### Nerzarn
