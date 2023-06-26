@@ -104,11 +104,11 @@ Please see the [Unity documentation on TextureImporter](https://docs.unity3d.com
 They are in the smallest uncompressed format, in order to get more gains when inside a solid 7-zip archive.  
 
 ### How do I get the high resolution face textures for Sen3, Sen4, and Hajimari?
-(!!!: High resolution face textures are not included in the current dump. We're planning to fix this.)  
+(!!!: High resolution face textures are not included in the current dump. This will be fixed in the future.)  
 For high resolution face textures, please use the file `fc_chrXXXfYY_conv` instead of `chrXXX_YY_conv`.  
 
 ### How do I apply animations to models in Blender?
-(!!!: Animations in the dump may be broken, even after using these steps. We're planning to fix this.)  
+(!!!: Animations in the dump may be broken, even after using these steps. This will be fixed in the future.)  
 
 To apply animations:  
 1. Import both model and animation with "Bone Dir" set to "Blender" (otherwise it may look wrong)  
@@ -195,21 +195,19 @@ Due to size considerations, I am no longer providing non-character textures or m
 
 ### Kuro no Kiseki
 
-Kuro Character models (GLTF model data only) (v3): [MEGA](https://mega.nz/file/dhBHDAZA#kc3nKwjujXbm_h5FCTb5N_iYL3KHPNitoRnC1O96iGc)  
+Kuro Character models (GLTF model+animation data only) (v4): [MEGA](https://mega.nz/file/RwA0hDzY#mSD4BLlIb6uzvqbXwZrkp7vYoJmp09sxJk4e9nGxe3w)  
 Kuro Character model textures (PNG texture data only) (v2): [MEGA](https://mega.nz/file/Ql4iWKJK#rw30oUG-iaZIzhTotV48YSPED1sRR9FcLyGz06xetKA)  
-Kuro Equipment models (GLTF model data only) (v3): [MEGA](https://mega.nz/file/s5xQFLyI#6cO_i-WxNfmpwI6_ZbLXncm5ypxFF4zhIkiIoLyKdBQ)  
+Kuro Equipment models (GLTF model+animation data only) (v4): [MEGA](https://mega.nz/file/1oYmAL5S#tApAAS00pZEqyYk8-gsc1iG8H6eh_lXffI7e3aFceAg)  
 Kuro Equipment model textures (PNG texture data only) (v2): [MEGA](https://mega.nz/file/thB3DbYQ#u9XvNwPcc1wWWscizy-Kw9v6Hl64_4xNdfUbNXh1GXc)  
-Currently, animations are missing.  
 
 Due to size considerations, I am no longer providing non-character textures or models publically. Please contact me with a PC savefile or map ID that you want so I can upload them individually.  
 
 ### Kuro no Kiseki 2
 
-Kuro 2 Character models (GLTF model data only) (v3): [MEGA](https://mega.nz/file/d0BAEI4D#Wr_rYWstVhML8QzS43Nb-tBXBmlajSs2Q-8QhnqDDwQ)  
+Kuro 2 Character models (GLTF model+animation data only) (v4): [MEGA](https://mega.nz/file/4pRFjSQK#9rnqnwOig2I3sfDuZwMfj1zGTFuDI0z7M4m16ltSSS0)  
 Kuro 2 Character model textures (PNG texture data only) (v2): [MEGA](https://mega.nz/file/E05jiIhZ#XVdWqhMOsaWUiyUqGY0yi-9cZnsc8yMO55ExQQtrSyM)  
-Kuro 2 Equipment models (GLTF model data only) (v3): [MEGA](https://mega.nz/file/U4wB2SrL#kxOqHQDGyAsCxcc-l4pTYjmj9_R8EzdgxqwId8c-hvU)  
+Kuro 2 Equipment models (GLTF model+animation data only) (v4): [MEGA](https://mega.nz/file/J8IBkSrB#DS86qMuBQgdIebDHa4BAW5xFca5i7cRMza5aPu9h0bY)  
 Kuro 2 Equipment model textures (PNG texture data only) (v2): [MEGA](https://mega.nz/file/JsQUhC5T#-22SmJHUT12puCF3wtrM8K0ffdyOliUM-STY7W3dFOA)  
-Currently, animations are missing.  
 
 Due to size considerations, I am no longer providing non-character textures or models publically. Please contact me with a PC savefile or map ID that you want so I can upload them individually.  
 
