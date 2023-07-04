@@ -79,7 +79,7 @@ If you have questions about usage of the models in a specific environment, sendi
 ## NeosVR
 
 ### uyjulian
-Sen1+2 avatars: `neosrec:///U-uyjulian/R-fb409dac-4f4d-4b46-9517-917866f508e9`  
+Sen1+2 avatars: (Provided on request)  
 
 # Questions and answers
 
