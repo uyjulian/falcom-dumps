@@ -96,6 +96,11 @@ To ensure that the PNG files are also output in the same directory as the FBX fi
 An alternative to using Blender to convert GLTF files to FBX is to use [Noesis](https://www.richwhitehouse.com/index.php?content=inc_projects.php&showproject=91).  
 However, I recommend that you try using Blender to convert files before using Noesis.  
 
+### How do I extract PNG files from the GLB file?
+You can use the GLTF/GLB import functionality of [Blender](https://www.blender.org/), which is a free 3D program.  
+
+In Blender, select the following menu option: File->External->Unpack Resources  
+
 ### After exporting to FBX, why does one half of the model file have wrongly mapped textures?
 In the program where the FBX file is being imported, you need to set the texture repeat mode to either "Repeat" or "Mirror". Use visual feature detection to determine the correct mode to set.  
 
