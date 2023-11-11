@@ -42,6 +42,7 @@ If you have questions about usage of the models in a specific environment, sendi
 * [Armorica Village](https://vrchat.com/home/launch?worldId=wrld_449a0630-67e0-4bf6-a7c4-1139dd61b0ef)  
 * [Ordis](https://vrchat.com/home/launch?worldId=wrld_ab631690-8caf-4a8d-a47e-098a9bf361eb)  
 * [Raquel](https://vrchat.com/home/launch?worldId=wrld_da746b13-2184-4cbc-b038-511f78d27db4)  
+* [Crossbell City](https://vrchat.com/home/launch?worldId=wrld_ca171e14-cd11-474a-910d-e8d2d8e844ce)  
 
 
 ### Nerzarn
