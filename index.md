@@ -44,6 +44,7 @@ If you have questions about usage of the models in a specific environment, sendi
 * [Raquel](https://vrchat.com/home/launch?worldId=wrld_da746b13-2184-4cbc-b038-511f78d27db4)  
 * [Crossbell City](https://vrchat.com/home/launch?worldId=wrld_ca171e14-cd11-474a-910d-e8d2d8e844ce)  
 * [Geofront](https://vrchat.com/home/launch?worldId=wrld_3e7d295b-fea8-46a0-b45a-eb4f9e253609)  
+* [Morimiya City](https://vrchat.com/home/launch?worldId=wrld_325fbd5f-65df-45a3-b974-68c22d6aadd0)  
 
 ### Nerzarn
 * [Courageous](https://vrchat.com/home/launch?worldId=wrld_1e0e204d-1145-4df9-8560-6d92c4fbffe3)  
