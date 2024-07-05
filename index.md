@@ -142,7 +142,7 @@ Sen3+4+Hajimari Equipment models, and textures (GLB/GLTF binary combined format)
 
 Due to size considerations, I am no longer providing non-character textures or models publically. These files can be extracted from the PC version of the game.  
 
-### Kuro no Kiseki
+### Trails through Daybreak / Kuro no Kiseki
 
 Kuro Character models (GLTF model+animation data only) (v4): [MEGA](https://mega.nz/file/RwA0hDzY#mSD4BLlIb6uzvqbXwZrkp7vYoJmp09sxJk4e9nGxe3w)  
 Kuro Character model textures (PNG texture data only) (v2): [MEGA](https://mega.nz/file/Ql4iWKJK#rw30oUG-iaZIzhTotV48YSPED1sRR9FcLyGz06xetKA)  
