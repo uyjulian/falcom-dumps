@@ -160,6 +160,13 @@ Kuro 2 Equipment model textures (PNG texture data only) (v2): [MEGA](https://meg
 
 Due to size considerations, I am no longer providing non-character textures or models publically. Please contact me with a PC savefile or map ID that you want so I can upload them individually.  
 
+## Kai no Kiseki
+
+Not dumpable yet  
+It will be dumped and character models posted here as soon as it is possible to do so.  
+The minver of this game (CUSA48980) is 12.00.  
+Once a working full chain for dumping game files is released for up to version 12.00, the files will be posted.  
+
 ### Other Falcom games
 
 Due to size considerations, I am no longer providing textures or models publically. These files can be extracted from the PC version of the game.  
