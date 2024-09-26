@@ -160,7 +160,7 @@ Kuro 2 Equipment model textures (PNG texture data only) (v2): [MEGA](https://meg
 
 Due to size considerations, I am no longer providing non-character textures or models publically. Please contact me with a PC savefile or map ID that you want so I can upload them individually.  
 
-## Kai no Kiseki
+### Kai no Kiseki
 
 Not dumpable yet  
 It will be dumped and character models posted here as soon as it is possible to do so.  
