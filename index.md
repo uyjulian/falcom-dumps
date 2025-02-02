@@ -20,10 +20,10 @@ If you have questions about usage of the models in a specific environment, sendi
 
 See [Trails into VR](https://trails-into-vr.github.io/) for a list of VRChat content.
 
-## NeosVR
+## Resonite
 
 ### uyjulian
-Sen1+2 avatars: (Provided on request)  
+Public folder: `resrec:///U-uyjulian/R-fb409dac-4f4d-4b46-9517-917866f508e9`  
 
 # Questions and answers
 
@@ -134,13 +134,7 @@ For Zero/Ao PSP 3D model extraction, see [it3cnv](https://www.pokanchan.jp/dokuw
 
 ### Trails of Cold Steel / Sen no Kiseki / Hajimari no Kiseki
 
-Sen1+2 Character models, textures, and animations (GLB/GLTF binary combined format): [MEGA](https://mega.nz/file/psJHBAiT#GZ7RrqN_VewHKRI7ZIDsxU34XnOLMOZxUzM6msSEwog)  
-Sen1+2 Equipment models, and textures, (GLB/GLTF binary combined format): [MEGA](https://mega.nz/file/x5glQR7K#AxeNqit6iJ1yGAdwMKKvqYLv6YzaZOtRS9pvHs1v_So)  
-
-Sen3+4+Hajimari Character models, textures, and animations (GLB/GLTF binary combined format): [MEGA](https://mega.nz/file/xhBxlCqJ#TEE4Q3NsrWC98WJ35AYzdm4YnhqRPCpIPybrHFvr5MM)  
-Sen3+4+Hajimari Equipment models, and textures (GLB/GLTF binary combined format): [MEGA](https://mega.nz/file/t1xThLSa#35Kc66vyJljX6WRpi38for05zF2Mye3jYH9loaju-CA)  
-
-Due to size considerations, I am no longer providing non-character textures or models publically. These files can be extracted from the PC version of the game.  
+Due to size considerations, I am no longer providing assets from these games publically. These files can be extracted from the PC version of the game using the tools mentioned above.  
 
 ### Trails through Daybreak / Kuro no Kiseki
 
@@ -162,14 +156,11 @@ Due to size considerations, I am no longer providing non-character textures or m
 
 ### Kai no Kiseki
 
-Not dumpable yet  
-It will be dumped and character models posted here as soon as it is possible to do so.  
-The minver of this game (CUSA48980) is 12.00.  
-Once a working full chain for dumping game files is released for up to version 12.00, the files will be posted.  
+Coming later; please stand by...
 
 ### Other Falcom games
 
-Due to size considerations, I am no longer providing textures or models publically. These files can be extracted from the PC version of the game.  
+Due to size considerations, I am no longer providing assets from these games publically. These files can be extracted from the PC version of the game using the tools mentioned above.  
 
 [Go to the top of the page](#)  
 [Return to top page](..)  
