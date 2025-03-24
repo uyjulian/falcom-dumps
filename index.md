@@ -134,7 +134,7 @@ For Zero/Ao PSP 3D model extraction, see [it3cnv](https://www.pokanchan.jp/dokuw
 
 ### Trails of Cold Steel / Sen no Kiseki / Hajimari no Kiseki
 
-Due to size considerations, I am no longer providing assets from these games publically. These files can be extracted from the PC version of the game using the tools mentioned above.  
+Due to size considerations, I am no longer providing assets from these games publically. These files can be extracted from the PC version of the game using the `ed8pkg2glb` tool mentioned above.  
 
 ### Trails through Daybreak / Kuro no Kiseki
 
@@ -143,20 +143,26 @@ Kuro Character model textures (PNG texture data only) (v2): [MEGA](https://mega.
 Kuro Equipment models (GLTF model+animation data only) (v4): [MEGA](https://mega.nz/file/1oYmAL5S#tApAAS00pZEqyYk8-gsc1iG8H6eh_lXffI7e3aFceAg)  
 Kuro Equipment model textures (PNG texture data only) (v2): [MEGA](https://mega.nz/file/thB3DbYQ#u9XvNwPcc1wWWscizy-Kw9v6Hl64_4xNdfUbNXh1GXc)  
 
-Due to size considerations, I am no longer providing non-character textures or models publically. Please contact me with a PC savefile or map ID that you want so I can upload them individually.  
+Due to size considerations, I am no longer providing non-character textures or models publically.  
 
-### Kuro no Kiseki 2
+### Trails through Daybreak 2 / Kuro no Kiseki 2
 
 Kuro 2 Character models (GLTF model+animation data only) (v4): [MEGA](https://mega.nz/file/4pRFjSQK#9rnqnwOig2I3sfDuZwMfj1zGTFuDI0z7M4m16ltSSS0)  
 Kuro 2 Character model textures (PNG texture data only) (v2): [MEGA](https://mega.nz/file/E05jiIhZ#XVdWqhMOsaWUiyUqGY0yi-9cZnsc8yMO55ExQQtrSyM)  
 Kuro 2 Equipment models (GLTF model+animation data only) (v4): [MEGA](https://mega.nz/file/J8IBkSrB#DS86qMuBQgdIebDHa4BAW5xFca5i7cRMza5aPu9h0bY)  
 Kuro 2 Equipment model textures (PNG texture data only) (v2): [MEGA](https://mega.nz/file/JsQUhC5T#-22SmJHUT12puCF3wtrM8K0ffdyOliUM-STY7W3dFOA)  
 
-Due to size considerations, I am no longer providing non-character textures or models publically. Please contact me with a PC savefile or map ID that you want so I can upload them individually.  
+Due to size considerations, I am no longer providing non-character textures or models publically.  
 
 ### Kai no Kiseki
 
-Coming later; please stand by...
+Kai Character models (GLTF model+animation data only): Coming later; please stand by...  
+Kai Character model textures (PNG texture data only) (v2): [MEGA](https://mega.nz/file/IwR0wBJY#aksNqVf-98rlJnNO_n87-mVbpPE91xkARiIHdOi2uQg)  
+Kai Equipment models (GLTF model+animation data only): Coming later; please stand by...  
+Kai Equipment model textures (PNG texture data only) (v2): [MEGA](https://mega.nz/file/phwz0I4C#hYzVbAjc4hj8NyvCRzC6GcbOlKZEBRsUr7D04TbcXSU)  
+
+Due to size considerations, I am no longer providing non-character textures or models publically.  
+
 
 ### Other Falcom games
 
