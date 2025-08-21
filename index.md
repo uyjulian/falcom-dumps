@@ -163,6 +163,14 @@ Kai Equipment model textures (PNG texture data only) (v2): [MEGA](https://mega.n
 
 Due to size considerations, I am no longer providing non-character textures or models publically.  
 
+### Sora no Kiseki / Trails in the Sky (remake)
+
+Sora 1st demo Character models (GLTF model+animation data only): Coming later; please stand by...  
+Sora 1st demo Character model textures (PNG texture data only) (v2): [MEGA](https://mega.nz/file/VtRglADI#rWFgtmpYJcq5OB0zYsCVmjkTVywE6dYgnW-FJGqyAgE)  
+Sora 1st demo Equipment models (GLTF model+animation data only): Coming later; please stand by...  
+Sora 1st demo Equipment model textures (PNG texture data only) (v2): [MEGA](https://mega.nz/file/YpJG1T5L#4sOeL9if1C3O9WPNe43Wgv3bQYVYv47rRwMhHEpGdcY)  
+
+Due to size considerations, I am no longer providing non-character textures or models publically.  
 
 ### Other Falcom games
 
