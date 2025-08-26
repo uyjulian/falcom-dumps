@@ -156,18 +156,18 @@ Due to size considerations, I am no longer providing non-character textures or m
 
 ### Kai no Kiseki
 
-Kai Character models (GLTF model+animation data only): Coming later; please stand by...  
+Kai Character models (GLTF model data only): [MEGA](https://mega.nz/file/Ahg1FDqA#7T0DPHhmY9VaFlEfMI8S-1Y8Fmx48IaGCN6uQXuOL5U)  
 Kai Character model textures (PNG texture data only) (v2): [MEGA](https://mega.nz/file/IwR0wBJY#aksNqVf-98rlJnNO_n87-mVbpPE91xkARiIHdOi2uQg)  
-Kai Equipment models (GLTF model+animation data only): Coming later; please stand by...  
+Kai Equipment models (GLTF model data only): [MEGA](https://mega.nz/file/d4AjzQIY#0vRTmTdbuB6KAxuS8mBgLvSuZl6tdQhoGb9aFowNgDg)  
 Kai Equipment model textures (PNG texture data only) (v2): [MEGA](https://mega.nz/file/phwz0I4C#hYzVbAjc4hj8NyvCRzC6GcbOlKZEBRsUr7D04TbcXSU)  
 
 Due to size considerations, I am no longer providing non-character textures or models publically.  
 
 ### Sora no Kiseki / Trails in the Sky (remake)
 
-Sora 1st demo Character models (GLTF model+animation data only): Coming later; please stand by...  
+Sora 1st demo Character models (GLTF model data only): [MEGA](https://mega.nz/file/BkwCCYBK#94Tk2_3eSUeVIFT2Q4bibMvUjbBdfU7_pIOdfEwPUCo)  
 Sora 1st demo Character model textures (PNG texture data only) (v2): [MEGA](https://mega.nz/file/VtRglADI#rWFgtmpYJcq5OB0zYsCVmjkTVywE6dYgnW-FJGqyAgE)  
-Sora 1st demo Equipment models (GLTF model+animation data only): Coming later; please stand by...  
+Sora 1st demo Equipment models (GLTF model data only): [MEGA](https://mega.nz/file/cxh1EAIR#g0pVwqhvkg_5fHIYk245xl4yb1jb9HdPmZ-lgUTg7MU)  
 Sora 1st demo Equipment model textures (PNG texture data only) (v2): [MEGA](https://mega.nz/file/YpJG1T5L#4sOeL9if1C3O9WPNe43Wgv3bQYVYv47rRwMhHEpGdcY)  
 
 Due to size considerations, I am no longer providing non-character textures or models publically.  
