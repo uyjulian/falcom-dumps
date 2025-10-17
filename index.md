@@ -156,18 +156,18 @@ Due to size considerations, I am no longer providing non-character textures or m
 
 ### Kai no Kiseki
 
-Kai Character models (GLTF model data only): [MEGA](https://mega.nz/file/Ahg1FDqA#7T0DPHhmY9VaFlEfMI8S-1Y8Fmx48IaGCN6uQXuOL5U)  
+Kai Character models (GLTF model+animation data only) (v4.1): [MEGA](https://mega.nz/file/NtwllaoS#kJRZmCgq_-XRj9CkOFyl9_o4phnG8wn6SXD4XzE6-yc)  
 Kai Character model textures (PNG texture data only) (v2): [MEGA](https://mega.nz/file/IwR0wBJY#aksNqVf-98rlJnNO_n87-mVbpPE91xkARiIHdOi2uQg)  
-Kai Equipment models (GLTF model data only): [MEGA](https://mega.nz/file/d4AjzQIY#0vRTmTdbuB6KAxuS8mBgLvSuZl6tdQhoGb9aFowNgDg)  
+Kai Equipment models (GLTF model+animation data only) (v4.1): [MEGA](https://mega.nz/file/U851lKxb#vGrLw9Q2Cy0BS9NAKXtE84-CqnE8t6lAyd7LJv8Z8aQ)  
 Kai Equipment model textures (PNG texture data only) (v2): [MEGA](https://mega.nz/file/phwz0I4C#hYzVbAjc4hj8NyvCRzC6GcbOlKZEBRsUr7D04TbcXSU)  
 
 Due to size considerations, I am no longer providing non-character textures or models publically.  
 
 ### Sora no Kiseki / Trails in the Sky (remake)
 
-Sora 1st Character models (GLTF model data only): [MEGA](https://mega.nz/file/45w00ZrS#BTkYWSxLm1MnY9Lj3JdjWOs2r_AUnCCpUq_QMTJe0Fo)  
+Sora 1st Character models (GLTF model+animation data only) (v4.1): [MEGA](https://mega.nz/file/YhBgFbwR#GnOfOZl3MS4cScsg7xDIY6PimuOT6JYYBweUBwIbMTM)  
 Sora 1st Character model textures (PNG texture data only) (v2): [MEGA](https://mega.nz/file/9xQx1K5J#b7S_kQKTpPUN8EBzh9a0MJFfZdHfEnwayJZiZnSOpXY)  
-Sora 1st Equipment models (GLTF model data only): [MEGA](https://mega.nz/file/UhgjnL4Y#bhIbkv35HAu9VWGHojeBwBRaEON_clL7aVZcBOob1b0)  
+Sora 1st Equipment models (GLTF model+animation data only) (v4.1): [MEGA](https://mega.nz/file/kxQBVZjJ#zgsw5hI0qBpwCjJ2q2IKhFgCYGrwzf4HutalqD1XIaQ)  
 Sora 1st Equipment model textures (PNG texture data only) (v2): [MEGA](https://mega.nz/file/tpglCDZD#wv4XheB-acZdaNJdSPgIGrAdOoFImAA1IyFh7l2RxI0)  
 
 Due to size considerations, I am no longer providing non-character textures or models publically.  
