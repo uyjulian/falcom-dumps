@@ -172,6 +172,15 @@ Sora 1st Equipment model textures (PNG texture data only) (v2): [MEGA](https://m
 
 Due to size considerations, I am no longer providing non-character textures or models publically.  
 
+### Kyoto Xanadu
+
+Kyoto Xanadu Character models (GLTF model+animation data only) (v4.1): [MEGA](https://mega.nz/file/x5ZRiZYb#iNZenLAbazxhdVjP5FPv9cLqQfW9NZ3pQZTlf5FuALo)  
+Kyoto Xanadu Character model textures (PNG texture data only) (v2.1): [MEGA](https://mega.nz/file/xoQkWLoJ#nllyFz-zr4u50iIsoLgrgDjjVKI8F4cp-KZHSiT4ZCU)  
+Kyoto Xanadu Equipment models (GLTF model+animation data only) (v4.1): [MEGA](https://mega.nz/file/V9IFXB6D#lfK_ZrFmXwVIuZMQ9YckfSwiK0TxtvPyhBzDauuyKNg)  
+Kyoto Xanadu Equipment model textures (PNG texture data only) (v2.1): [MEGA](https://mega.nz/file/Vogl1AIb#euPFX66aqjZ6Hm-b6vyFAyLcnR4vBVTG_mY2xCYdgnk)  
+
+Due to size considerations, I am no longer providing non-character textures or models publically.  
+
 ### Other Falcom games
 
 Due to size considerations, I am no longer providing assets from these games publically. These files can be extracted from the PC version of the game using the tools mentioned above.  
