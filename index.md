@@ -134,7 +134,7 @@ For Zero/Ao PSP 3D model extraction, see [it3cnv](https://www.pokanchan.jp/dokuw
 
 ### Trails of Cold Steel / Sen no Kiseki / Hajimari no Kiseki
 
-Due to size considerations, I am no longer providing assets from these games publically. These files can be extracted from the PC version of the game using the `ed8pkg2glb` tool mentioned above.  
+I am no longer providing non-character textures or models publically on the open Internet due to size considerations, false claims and bandwidth usage.  These files can be extracted from the PC version of the game using the `ed8pkg2glb` tool mentioned above.  
 
 ### Trails through Daybreak / Kuro no Kiseki
 
@@ -152,7 +152,7 @@ Kuro 2 Character model textures (PNG texture data only) (v2): [MEGA](https://meg
 Kuro 2 Equipment models (GLTF model+animation data only) (v4): [MEGA](https://mega.nz/file/J8IBkSrB#DS86qMuBQgdIebDHa4BAW5xFca5i7cRMza5aPu9h0bY)  
 Kuro 2 Equipment model textures (PNG texture data only) (v2): [MEGA](https://mega.nz/file/JsQUhC5T#-22SmJHUT12puCF3wtrM8K0ffdyOliUM-STY7W3dFOA)  
 
-Due to size considerations, I am no longer providing non-character textures or models publically.  
+I am no longer providing non-character textures or models publically on the open Internet due to size considerations, false claims and bandwidth usage.  
 
 ### Kai no Kiseki
 
@@ -161,7 +161,7 @@ Kai Character model textures (PNG texture data only) (v2): [MEGA](https://mega.n
 Kai Equipment models (GLTF model+animation data only) (v4.1): [MEGA](https://mega.nz/file/U851lKxb#vGrLw9Q2Cy0BS9NAKXtE84-CqnE8t6lAyd7LJv8Z8aQ)  
 Kai Equipment model textures (PNG texture data only) (v2): [MEGA](https://mega.nz/file/phwz0I4C#hYzVbAjc4hj8NyvCRzC6GcbOlKZEBRsUr7D04TbcXSU)  
 
-Due to size considerations, I am no longer providing non-character textures or models publically.  
+I am no longer providing non-character textures or models publically on the open Internet due to size considerations, false claims and bandwidth usage.  
 
 ### Sora no Kiseki / Trails in the Sky (remake)
 
@@ -170,7 +170,7 @@ Sora 1st Character model textures (PNG texture data only) (v2): [MEGA](https://m
 Sora 1st Equipment models (GLTF model+animation data only) (v4.1): [MEGA](https://mega.nz/file/kxQBVZjJ#zgsw5hI0qBpwCjJ2q2IKhFgCYGrwzf4HutalqD1XIaQ)  
 Sora 1st Equipment model textures (PNG texture data only) (v2): [MEGA](https://mega.nz/file/tpglCDZD#wv4XheB-acZdaNJdSPgIGrAdOoFImAA1IyFh7l2RxI0)  
 
-Due to size considerations, I am no longer providing non-character textures or models publically.  
+I am no longer providing non-character textures or models publically on the open Internet due to size considerations, false claims and bandwidth usage.  
 
 ### Kyoto Xanadu
 
@@ -179,11 +179,11 @@ Kyoto Xanadu Character model textures (PNG texture data only) (v2.1): [MEGA](htt
 Kyoto Xanadu Equipment models (GLTF model+animation data only) (v4.1): [MEGA](https://mega.nz/file/V9IFXB6D#lfK_ZrFmXwVIuZMQ9YckfSwiK0TxtvPyhBzDauuyKNg)  
 Kyoto Xanadu Equipment model textures (PNG texture data only) (v2.1): [MEGA](https://mega.nz/file/Vogl1AIb#euPFX66aqjZ6Hm-b6vyFAyLcnR4vBVTG_mY2xCYdgnk)  
 
-Due to size considerations, I am no longer providing non-character textures or models publically.  
+I am no longer providing non-character textures or models publically on the open Internet due to size considerations, false claims and bandwidth usage.  
 
 ### Other Falcom games
 
-Due to size considerations, I am no longer providing assets from these games publically. These files can be extracted from the PC version of the game using the tools mentioned above.  
+I am no longer providing non-character textures or models publically on the open Internet due to size considerations, false claims and bandwidth usage.  These files can be extracted from the PC version of the game using the tools mentioned above.  
 
 [Go to the top of the page](#)  
 [Return to top page](..)  
