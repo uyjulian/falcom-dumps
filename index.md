@@ -169,6 +169,10 @@ Sora 1st Character models (GLTF model+animation data only) (v4.1): [MEGA](https:
 Sora 1st Character model textures (PNG texture data only) (v2): [MEGA](https://mega.nz/file/9xQx1K5J#b7S_kQKTpPUN8EBzh9a0MJFfZdHfEnwayJZiZnSOpXY)  
 Sora 1st Equipment models (GLTF model+animation data only) (v4.1): [MEGA](https://mega.nz/file/kxQBVZjJ#zgsw5hI0qBpwCjJ2q2IKhFgCYGrwzf4HutalqD1XIaQ)  
 Sora 1st Equipment model textures (PNG texture data only) (v2): [MEGA](https://mega.nz/file/tpglCDZD#wv4XheB-acZdaNJdSPgIGrAdOoFImAA1IyFh7l2RxI0)  
+Sora 2nd Character models (GLTF model+animation data only) (v4.1): [MEGA](https://mega.nz/file/QkQ3gDiB#D9nCJCX0gTFMwUm5MOM_qeyLM0TLty-SgYHHlCp1d5E)  
+Sora 2nd Character model textures (PNG texture data only) (v4.1): [MEGA](https://mega.nz/file/8xZhDL6b#EPJHMurfIRB__4x9UYem5Qe8zQpbG7g0TBsb70ctKk4)  
+Sora 2nd Equipment models (GLTF model+animation data only) (v4.1): [MEGA](https://mega.nz/file/pgJCkLJI#WYh69o-GaaEUc1nlqKlX9q8tbVr6Vj1lCU0xq0IRzyE)  
+Sora 2nd Equipment model textures (PNG texture data only) (v4.1): [MEGA](https://mega.nz/file/Ew4hxDQK#clznBeYB4oz4Ie2Y4slisbo0nBEZq9632B95LwWcbwg)  
 
 I am no longer providing non-character textures or models publically on the open Internet due to size considerations, false claims and bandwidth usage.  
 
